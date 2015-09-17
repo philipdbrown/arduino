@@ -39,8 +39,8 @@ void loop() {
     /**
     *  RIGHT & LEFT
     **/
-    //int horiz = map(joyX, 23, 230, 102, 78);
-    int horiz = map(joyX, 23, 230, 50, 130);
+    int horiz = map(joyX, 23, 230, 50, 130); // JoyStick
+    //int horiz = map(accX, 23, 230, 30, 150);  // Accel
     if (abs(horiz - 90) <= 2) {
       horiz = 90;
     }
