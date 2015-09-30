@@ -1,4 +1,4 @@
-# arduino products
+# arduino projects
 This repo houses projects that my son and I have created.  We are also sharing our creations with other children on our AWANA robotics club at Peavine Baptist Church in Rock Spring, GA.  
 Fritzing is required to view prototype file. Download Here: [fritzing.org](http://fritzing.org)
 
